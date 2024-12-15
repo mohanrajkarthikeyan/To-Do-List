@@ -1,6 +1,6 @@
 # To-Do-List
 
-The To-Do List project is a task management tool for organizing, prioritizing, and tracking tasks efficiently.
+Description: The To-Do List project is a task management tool for organizing, prioritizing, and tracking tasks efficiently.
 
 The To-Do List project is a productivity tool designed to help users organize tasks and manage their time effectively. It allows users to create, edit, prioritize, and delete tasks in a structured way. Key features may include deadline tracking, categorization, reminders, and progress monitoring, making it an ideal solution for personal and professional task management.
 
